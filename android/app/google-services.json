@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689848736959",
+    "project_id": "mealmonkey-firebase",
+    "storage_bucket": "mealmonkey-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689848736959:android:dcee4c2c6e9f7e55e1ba0a",
+        "android_client_info": {
+          "package_name": "com.example.meal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689848736959-amvbmres35p1afm2m04qi9rifsv3eoqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9HRrikWrPV1tjRzN-zicFExuAIdowpLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689848736959-amvbmres35p1afm2m04qi9rifsv3eoqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
